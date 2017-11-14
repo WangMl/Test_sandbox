@@ -1,6 +1,6 @@
 {
   "name": "ysp_login_temps",
-  "description": "test_sandbox",
+  "description": "login_temps",
   "version": "0.0.0",
   "dependencies": {
     "react-dom": "16.0.0",
