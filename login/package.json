@@ -1,10 +1,11 @@
 {
-  "name": "test_sandbox",
+  "name": "ysp_login_temps",
   "description": "test_sandbox",
   "version": "0.0.0",
   "dependencies": {
     "react-dom": "16.0.0",
-    "react": "16.0.0"
+    "react": "16.0.0",
+    "amazeui-touch":"1.0.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
