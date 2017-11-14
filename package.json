@@ -1,6 +1,6 @@
 {
-  "name": "1r74xqyx97",
-  "description": null,
+  "name": "test_sandbox",
+  "description": "test_sandbox",
   "version": "0.0.0",
   "dependencies": {
     "react-dom": "16.0.0",
